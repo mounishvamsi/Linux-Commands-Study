@@ -20,6 +20,8 @@ ls
 
 **Output:**
 
+![Screenshot 2025-03-21 083815](https://github.com/user-attachments/assets/7d8b6d5c-2c58-48b2-86bf-04d7b42e1bf8)
+
 ### 2. `pwd` Command
 
 The `pwd` command displays the location of the current working directory.
@@ -30,6 +32,8 @@ pwd
 ```
 
 **Output:**
+
+![Screenshot 2025-03-21 083833](https://github.com/user-attachments/assets/11171369-daea-4127-be13-5a78e7837dab)
 
 ### 3. `mkdir` Command
 
@@ -42,6 +46,8 @@ mkdir <directory_name>
 
 **Output:**
 
+![Screenshot 2025-03-21 083849](https://github.com/user-attachments/assets/a290dd20-fca9-492c-8f9c-d5863a275cee)
+
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
@@ -52,6 +58,8 @@ rmdir <directory_name>
 ```
 
 **Output:**
+
+![Screenshot 2025-03-21 083958](https://github.com/user-attachments/assets/b9d7885b-125e-4640-be50-3a8ec3974868)
 
 ### 5. `cd` Command
 
@@ -64,6 +72,8 @@ cd <directory_name>
 
 **Output:**
 
+![Screenshot 2025-03-21 084014](https://github.com/user-attachments/assets/ba8382e9-9b82-4275-9636-0dad6b3d9cef)
+
 ### 6. `cat` Command
 
 The `cat` command is used to create, display, and concatenate files.
@@ -74,6 +84,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+
+![Screenshot 2025-03-21 084027](https://github.com/user-attachments/assets/eda33e08-bb3e-4d45-a425-9b19b0379ccd)
 
 ### 7. `cp` Command
 
@@ -86,6 +98,8 @@ cp <source_file> <destination_file>
 
 **Output:**
 
+![Screenshot 2025-03-21 084042](https://github.com/user-attachments/assets/e220c873-762a-4088-baf7-89dfc1b31cef)
+
 ### 8. `gedit` Command
 
 `gedit` is a general-purpose text editor used to create and edit text files.
@@ -96,6 +110,8 @@ gedit <file_name>
 ```
 
 **Output:**
+
+![Screenshot 2025-03-21 084056](https://github.com/user-attachments/assets/da091672-e5e3-4529-9dbf-8a2962f2762a)
 
 ### 9. `su` Command
 
@@ -108,6 +124,8 @@ su <username>
 
 **Output:**
 
+![Screenshot 2025-03-21 084105](https://github.com/user-attachments/assets/8c17f780-c040-498a-939a-4432d86adbe7)
+
 ### 10. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
@@ -118,6 +136,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+
+![Screenshot 2025-03-21 084115](https://github.com/user-attachments/assets/53a4369d-5230-4c46-965f-821788589c8d)
 
 ### 11. `rename` Command
 
